@@ -10,6 +10,7 @@ import axios from "axios";
 import Joke from "../../components/jokes.vue";
 import SearchJokes from "../../components/SearchJokes.vue";
 
+
 export default {
   components: {
     Joke,
